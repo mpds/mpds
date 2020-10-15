@@ -7,7 +7,7 @@
 <img src="https://i.pinimg.com/originals/26/84/1e/26841e0df186b45165f7f537382c525d.gif" alt="hi" width="200" height="150">
 </p>
 
-My name is Matheus Müller, and I'm a biologist (Federal University of Rio de Janeiro) and a computer modeller (National Laboratory for Scientific Computing). I'm mainly interested in machine learning techniques applied to biology and health-related areas. 
+My name is Matheus Müller, and I'm a biologist (Federal University of Rio de Janeiro) and a computer modeller (National Laboratory for Scientific Computing). I'm mainly interested in AI and machine learning techniques applied to biology and health-related areas. 
 
 Currently a PhD student @ [LNCC](https://www.lncc.br/), Brazil.
 
