@@ -7,7 +7,7 @@
 <img src="https://i.pinimg.com/originals/2d/8a/44/2d8a44f05889b4a06bb35a0dafb7355e.gif" alt="hi" width="200" height="150">
 </p>
 
-My name is Matheus Müller. I have a bachelor's degree in Biotechnology 🧬 (Federal University of Rio de Janeiro) and a master's degree in Computational Modeling 🖥️ (National Laboratory for Scientific Computing). 
+My name is Matheus Müller. I have a bachelor's degree in Biotechnology ([Federal University of Rio de Janeiro](https://ufrj.br/en/)) and a master's degree in Computational Modeling ([National Laboratory for Scientific Computing](https://www.lncc.br/)). 
 
 💡 I'm mainly interested in AI and machine learning applied to biology, drug-design and health-related areas. 
 
