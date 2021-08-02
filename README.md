@@ -1,17 +1,21 @@
 ### Hi there! 👋
-[![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0002-0659-6365)
-[![researchgate](https://img.shields.io/badge/ResearchGate--_?style=social&logo=researchgate)](https://www.researchgate.net/profile/Matheus_Mueller2)
-[![lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129)
 
 <p >
-<img src="https://i.pinimg.com/originals/2d/8a/44/2d8a44f05889b4a06bb35a0dafb7355e.gif" alt="hi" width="200" height="150">
+<img src="https://i.pinimg.com/originals/2d/8a/44/2d8a44f05889b4a06bb35a0dafb7355e.gif" alt="hi" width="300" height="225">
 </p>
+
+[![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0002-0659-6365) 
+[![researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matheus_Mueller2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mullerpds) 
+[![lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129) 
+
 
 My name is Matheus Müller. 
 
-- 💡 Interested in AI and machine learning applied to biology, drug-design and health-related areas. 
-- 📚 PhD student @ [LNCC](https://www.lncc.br/), Brazil.
-- 🧪 [GMMSB](http://gmmsb.lncc.br/) research group.
+- 💡 I’m currently working on AI and machine learning applied to biology, drug-design and health-related areas.
+- 💻 Also develop software @ [Nanobusiness](https://nanobusiness.com.br/), contributing to its digital transformation 🚀.
+- 📚 PhD student @ [LNCC](https://www.lncc.br/) Brazil.
+- 🧪 [gmmsb](http://gmmsb.lncc.br/) research group.
 
 
 ---
