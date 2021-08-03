@@ -13,7 +13,7 @@
 My name is Matheus Müller. 
 
 - 💡 I’m currently working on AI and machine learning applied to biology, drug-design and health-related areas.
-- 💻 Also develop software @ [Nanobusiness](https://nanobusiness.com.br/), contributing to its digital transformation 🚀.
+- 💻 I also develop software @ [Nanobusiness](https://nanobusiness.com.br/), contributing to its digital transformation 🚀.
 - 📚 PhD student @ [LNCC](https://www.lncc.br/) Brazil.
 - 🧪 [gmmsb](http://gmmsb.lncc.br/) research group.
 
