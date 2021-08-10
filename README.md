@@ -7,7 +7,7 @@
 
 My name is Matheus Müller. 
 
-- 🧪 I’m currently interested in AI and machine learning applied to biology, drug-design and health-related areas.
+- 🧪 I’m currently interested in AI and machine learning applied to biology, drug-design, and health-related areas.
 - 💻 I also develop software @ [Nanobusiness](https://nanobusiness.com.br/), contributing to its digital transformation 🚀.
 - 📚 PhD student @ [LNCC](https://www.lncc.br/) Brazil.
 
