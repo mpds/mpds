@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-<p >
+<!--<p >
 <img src="https://i.pinimg.com/originals/2d/8a/44/2d8a44f05889b4a06bb35a0dafb7355e.gif" alt="hi" width="300" height="225">
-</p>
+</p>-->
 
 
 My name is Matheus Müller. 
