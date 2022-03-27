@@ -8,7 +8,7 @@
 My name is Matheus Müller. 
 
 - 🧪 I’m mainly interested in AI and machine learning applied to drug design, biology, and health-related areas.
-- 💻 I also develop software at [Nanobusiness](https://nanobusiness.com.br/), contributing to its digital transformation 🚀.
+- 💻 I also develop software at [Nanobusiness](https://nanobusiness.com.br/) and [EveryBlock Studio](https://everyblock.studio/) 🚀.
 - 📚 PhD student at [LNCC](https://www.lncc.br/) Brazil.
 
 #### You can find me on:
