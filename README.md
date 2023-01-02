@@ -7,7 +7,7 @@
 
 My name is Matheus Müller. 
 
-- 📚 PhD student at [LNCC](https://www.lncc.br/) Brazil.
+- 📚 PhD student at [LNCC/MCTI](https://www.lncc.br/) Brazil.
 - 🧪 AI and machine learning applied to drug discovery, biology, and health-related areas.
 - 💻 I also develop software at [Nanobusiness](https://nanobusiness.com.br/) and [EveryBlock Studio](https://everyblock.studio/) 🚀.
 
