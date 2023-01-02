@@ -7,16 +7,15 @@
 
 My name is Matheus Müller. 
 
-- 🧪 I’m mainly interested in AI and machine learning applied to drug design, biology, and health-related areas.
-- 💻 I also develop software at [Nanobusiness](https://nanobusiness.com.br/) and [EveryBlock Studio](https://everyblock.studio/) 🚀.
 - 📚 PhD student at [LNCC](https://www.lncc.br/) Brazil.
+- 🧪 AI and machine learning applied to drug discovery, biology, and health-related areas.
+- 💻 I also develop software at [Nanobusiness](https://nanobusiness.com.br/) and [EveryBlock Studio](https://everyblock.studio/) 🚀.
 
 #### You can find me on:
 
-[![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0002-0659-6365) 
-[![researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matheus_Mueller2) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullerpds) 
-[![lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129) 
+| [![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0002-0659-6365) | [![researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matheus_Mueller2) | 
+| --- | --- |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullerpds) | [![lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129) |
 ---
 <!--
 **mpds/mpds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
