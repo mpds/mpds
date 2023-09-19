@@ -4,12 +4,12 @@
 <img src="https://i.pinimg.com/originals/2d/8a/44/2d8a44f05889b4a06bb35a0dafb7355e.gif" alt="hi" width="300" height="225">
 </p>-->
 
+I'm Matheus Müller. 
 
-My name is Matheus Müller. 
+- Research interests: AI & ML for drug discovery and bioinformatics 🧪
+- Pursuing a Ph.D. at [LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷📚 
+- Technology specialist intern at [Nanobusiness](https://nanobusiness.com.br/) 💻 
 
-- 🧪 I'm interested in AI and machine learning applied to drug discovery, biology, and health-related areas.
-- 📚 Ph.D. student at [LNCC/MCTI](http://gmmsb.lncc.br/) Brazil.
-- 💻 I also write code at [Nanobusiness](https://nanobusiness.com.br/) 🚀.
 
 #### You can find me on:
 
