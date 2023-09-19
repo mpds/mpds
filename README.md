@@ -6,10 +6,10 @@
 
 I'm Matheus Müller. 
 
-- Research interests: AI & ML for drug discovery and bioinformatics 🧪
-- Pursuing a Ph.D. at [LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷📚 
-- Technology specialist intern at [Nanobusiness](https://nanobusiness.com.br/) 💻 
-
+- 🧪 Research interests: AI & ML for drug discovery and bioinformatics 
+- 🎓 Pursuing a Ph.D. at [LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷
+- 💻 Technology specialist intern at [Nanobusiness](https://nanobusiness.com.br/) 
+- 📰 Check out my [publications](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate) 
 
 #### You can find me on:
 
