@@ -12,9 +12,6 @@ I'm Matheus Müller.
 - 💻 Technology specialist intern at [Nanobusiness](https://nanobusiness.com.br/) 
 - 📰 Check out my [publications](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate)
 
-#### Public projects
-* DockTGrid: https://github.com/gmmsb-lncc/docktgrid/
-
 
 ---
 <!--
