@@ -1,7 +1,7 @@
 [![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0002-0659-6365) [![researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matheus_Mueller2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullerpds) [![lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129)
 ### Hi there! 👋
 
-I'm Matheus Müller. A few things about me:
+I'm Matheus Müller. Here are a few things about me:
 
 - 🧪 My research interests focus on AI & ML for drug discovery and bioinformatics.
 - 🎓 Pursuing a PhD at [LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷.
