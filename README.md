@@ -3,11 +3,24 @@
 
 I’m Matheus Müller, and here’s a snapshot of my current work and research:
 
-- 🧪 My research interests focus on AI & ML for drug discovery and bioinformatics.
-- 🎓 Pursuing a PhD at [LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷.
+- 🧪 Researching AI and machine learning applications in drug discovery and bioinformatics.
+- 🎓 PhD candidate at [LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷.
 - 💻 Data Scientist at [InsilicAll](https://insilicall.com).
-- 📰 Check out my [publications](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate).
+- 📰 My [publications](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate).
 
+### Projects
+Here are some of the projects I’ve been involved with. Feel free to check them out.
+
+Open-source python packages: 
+ - [docktgrid](https://github.com/gmmsb-lncc/docktgrid): Generate customized voxel representations of protein-ligand complexes using GPU. 
+ - [docktprep](https://github.com/gmmsb-lncc/docktprep): A tool for preparing molecular structures for docking experiments with [DockThor](https://dockthor.lncc.br).
+
+Web projects:
+ - Programa de Verão LNCC (https://verao.lncc.br/)
+ - XI Escola de Modelagem Molecular de Sistemas Biológicos (https://www.emmsb.lncc.br/)
+ - II Escola Latino-Americana de Bioinformática (https://www.elab.lncc.br)
+ - XVI Encontro Acadêmico de Modelagem Computacional (https://eamc.lncc.br/)
+ - Grupo de Modelagem Molecular de Sistemas Biológicos (https://www.gmmsb.lncc.br/)
 
 ---
 <!--
