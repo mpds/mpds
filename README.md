@@ -12,7 +12,7 @@ I’m Matheus Müller, and here’s a snapshot of my current work and research:
 Here are some of the projects I’ve been involved with. Feel free to check them out.
 
 Open-source python packages: 
- - [docktgrid](https://github.com/gmmsb-lncc/docktgrid): Generate customized voxel representations of protein-ligand complexes using GPU. 
+ - [docktgrid](https://docktgrid.readthedocs.io): Generate customized voxel representations of protein-ligand complexes using GPU. 
  - [docktprep](https://github.com/gmmsb-lncc/docktprep): A tool for preparing molecular structures for docking experiments with [DockThor](https://dockthor.lncc.br).
 
 Web projects:
