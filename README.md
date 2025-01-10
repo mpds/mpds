@@ -13,7 +13,6 @@ Here are some of the projects I’ve been involved with. Feel free to check them
 
 Open-source python packages: 
  - [docktgrid](https://docktgrid.readthedocs.io): Generate customized voxel representations of protein-ligand complexes using GPU. 
- - [docktprep](https://github.com/gmmsb-lncc/docktprep): A tool for preparing molecular structures for docking experiments with [DockThor](https://dockthor.lncc.br).
 
 Web projects:
  - Programa de Verão LNCC (https://verao.lncc.br/)
