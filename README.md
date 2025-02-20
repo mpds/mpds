@@ -11,10 +11,10 @@ I’m Matheus Müller, and here’s a snapshot of my current work and research:
 ### Projects
 Here are some of the projects I’ve been involved with. Feel free to check them out.
 
-Open-source python packages: 
- - [docktgrid](https://docktgrid.readthedocs.io): Generate customized voxel representations of protein-ligand complexes using GPU. 
+**Python projects**:
+- See pinned repositories.
 
-Web projects:
+**Web projects**:
  - Programa de Verão LNCC (https://verao.lncc.br/)
  - XI Escola de Modelagem Molecular de Sistemas Biológicos (https://www.emmsb.lncc.br/)
  - II Escola Latino-Americana de Bioinformática (https://www.elab.lncc.br)
