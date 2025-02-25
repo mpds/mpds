@@ -8,10 +8,10 @@ I’m Matheus Müller, and here’s a snapshot of my current work and research:
 - 💻 Data Scientist at [InsilicAll](https://insilicall.com).
 - 📰 My [publications](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate).
 
-### Projects
-Here are some of the projects I’ve been involved with. Feel free to check them out.
 
-**Python projects**:
+Below are some of the projects I’ve been involved with. Feel free to check them out.
+
+**Scientific projects**:
 - See pinned repositories.
 
 **Web projects**:
