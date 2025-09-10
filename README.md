@@ -5,7 +5,7 @@ I’m Matheus, and here’s a snapshot of my current work and research:
 
 - 🧪 Researching AI and machine learning applications in drug discovery and bioinformatics.
 - 🎓 PhD candidate at [LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷.
-- 💻 Software Developer (Scientific/Research) at [First Decision](https://www.firstdecision.com.br/).
+- 💻 Software Developer (Scientific/Research) at [First Decision](https://www.firstdecision.com.br/)/LNCC.
 - 📰 [Publications](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate).
 
 
