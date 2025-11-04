@@ -1,15 +1,12 @@
 [![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0002-0659-6365) [![researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matheus_Mueller2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullerpds) [![lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129)
 ### Hi there! 👋
 
-I’m Matheus, and here’s a snapshot of my current work and research:
+I’m Matheus - researcher and developer.  
 
-- 🧪 Researching AI and machine learning applications in drug discovery and bioinformatics.
-- 🎓 PhD candidate at [LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷.
-- 💻 Software Developer (Scientific/Research) at [First Decision](https://www.firstdecision.com.br/)/LNCC.
-- 📰 [Publications](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate).
-
-
-
+- 🧪 Research interests: AI, machine learning, drug discovery, and bioinformatics.
+- 🎓 PhD in Computational Modeling ([LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷).
+- 💻 Software developer (scientific/research) @ First Decision/LNCC.
+- 📰 Publications: [google scholar](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate).
 
 ---
 <!--
