@@ -1,14 +1,7 @@
-[![orcid](https://img.shields.io/badge/ORCID--_?style=social&logo=orcid)](https://orcid.org/0000-0002-0659-6365) [![researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matheus_Mueller2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullerpds) [![lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129)
-### Hi there! 👋
+[![aboutme](https://img.shields.io/badge/https-mpds-green?style=flat)](https://mpds.github.io/)
+[![lattes](https://img.shields.io/badge/lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129)
 
-I’m Matheus - researcher and developer.  
 
-- 🧪 Research interests: AI, machine learning, drug discovery, and bioinformatics.
-- 🎓 PhD in Computational Modeling ([LNCC/MCTI](http://gmmsb.lncc.br/) 🇧🇷).
-- 💻 Software developer (scientific/research) @ First Decision/LNCC.
-- 📰 Publications: [google scholar](https://scholar.google.com/citations?&user=b-YoHK8AAAAJ&sortby=pubdate).
-
----
 <!--
 **mpds/mpds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
