@@ -1,5 +1,6 @@
-[![papers](https://img.shields.io/badge/my-publications-green?style=flat)](https://www.zotero.org/mpds)
-[![lattes](https://img.shields.io/badge/lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129)
+* [![papers](https://img.shields.io/badge/my-publications-green?style=flat)](https://www.zotero.org/mpds)
+* [![lattes](https://img.shields.io/badge/lattes-CNPq-blue?style=flat)](http://lattes.cnpq.br/0364392354139129)
+
 
 
 <!--
